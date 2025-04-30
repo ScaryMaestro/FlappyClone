@@ -3,6 +3,7 @@ Esse projeto foi desenvolvido com o intuito de treinar lógica de programação,
 
 Clique [aqui](https://flappy-clone-scarymaestros-projects.vercel.app/) para testar o projeto.
 
-![](img/screenshots/screenshot1.png) ![](img/screenshots/screenshot2.png)
+![](img/screenshots/screenshot1.png) 
+![](img/screenshots/screenshot2.png)
 
 Clone simples de Flappy Bird criado para fins educacionais. O projeto não têm vínculo com o jogo original.
